@@ -1,0 +1,6 @@
+Array
+(
+    [email] => admin1@gmail.com
+    [password1] => ?sdfghjksdfg
+    [submit] => Отправить
+)
